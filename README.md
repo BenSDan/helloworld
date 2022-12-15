@@ -1,2 +1,2 @@
 # helloworld
-firt git project
+fisrt git project
